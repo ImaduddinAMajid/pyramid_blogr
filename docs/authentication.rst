@@ -40,7 +40,7 @@ Add the following method to our ``User`` class in ``models/user.py``.
     :linenos:
     :lines: 17-
     :lineno-start: 17
-    :emphasize-lines: 2-4
+    :emphasize-lines: 21-30
 
 We also need to create the ``UserService`` class in a new file
 ``services/user.py``.
